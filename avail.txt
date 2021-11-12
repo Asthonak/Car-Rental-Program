@@ -1,0 +1,3 @@
+Available cars are:
+2014 Toyota Tacoma with a 15 gallon tank at $115.12 per day. Outfitted with: gps Available: true.
+2009 Dodge Neon with a 22.5 gallon tank at $45.25 per day. Outfitted with: camera lidar radar Available: true.

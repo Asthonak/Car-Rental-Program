@@ -1,0 +1,2 @@
+The most expensive car is:
+2014 Toyota Tacoma with a 15 gallon tank at $115.12 per day. Outfitted with: gps Available: true.

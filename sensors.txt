@@ -1,0 +1,5 @@
+The fleet is currently equipt with:
+GPS: 1
+Cameras: 2
+Lidars: 3
+Radars: 1
