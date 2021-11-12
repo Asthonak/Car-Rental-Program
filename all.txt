@@ -1,0 +1,6 @@
+Hertz 93619
+#1 2014 Toyota Tacoma with a 15 gallon tank at $115.12 per day. Outfitted with: gps Available: true.
+#2 2012 Honda CRV with a 25 gallon tank at $85.1 per day. Outfitted with: camera lidar Available: false. Owner: Mike
+#3 2015 Ford Fusion with a 20 gallon tank at $90.89 per day. Outfitted with: none Available: false. Owner: Mary
+#4 2009 Dodge Neon with a 22.5 gallon tank at $45.25 per day. Outfitted with: camera lidar radar Available: true.
+#5 2011 Toyota Rav4 with a 22.5 gallon tank at $65.02 per day. Outfitted with: lidar Available: false. Owner: Fillis

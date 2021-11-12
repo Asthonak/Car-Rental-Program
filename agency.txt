@@ -1,0 +1,6 @@
+Hertz 93619
+2014 Toyota Tacoma 15.0 115.12 {gps} 1
+2012 Honda CRV 25.0 85.10 {camera lidar} 0 Mike 
+2015 Ford Fusion 20.0 90.89 {} 0 Mary
+2009 Dodge Neon 22.5 45.25 {camera lidar radar} 1
+2011 Toyota Rav4 22.5 65.02 {lidar} 0 Fillis
